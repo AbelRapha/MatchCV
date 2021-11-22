@@ -2,7 +2,7 @@
 
 ## Ideia do projeto
 Basicamente é uma forma de agilizar a leitura de currículos.
-Por meio do processamento de linguagem natural (NLP) é encontrar as palavras chaves que estão dentro do currículo de cada cadidato, e dessa forma facilita o recrutamento, pois cada cadidato recebe um tipo de  __score__ para cada vaga. 
+Por meio do processamento de linguagem natural (NLP) é encontrar as palavras chaves que estão dentro do currículo de cada candidato, e dessa forma facilita o recrutamento, pois cada candidato recebe um tipo de  __score__ para cada vaga. 
 Sendo assim, agiliza o Match do CV para a vaga.
 ![Match_cv](Match%20CV.gif)
 
@@ -47,3 +47,6 @@ streamlit run app.py
 
 ## Ideia do Projeto
 [Imersão Flai DS](https://www.youtube.com/channel/UCbX5jWHGu-6_4CRhLmRuxcQ) 
+
+## Autor
+[made by me](https://github.com/AbelRapha) 🧡
